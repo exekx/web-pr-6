@@ -1,9 +1,9 @@
-p{
-    color: red;
-}
-
 .note{
     font-size: 20pt;
+}
+
+#red{
+    color: red;
 }
 
 #green{
